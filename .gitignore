@@ -1,1 +1,5 @@
 HW/*.s#*
+HW/*.b#*
+HW/Gerbers
+HW/Datasheets
+HW/*.zip
